@@ -11,6 +11,7 @@ import pandas as pd
 
 st.markdown('''
 \U0001F600
+:sunglasses:
 ''')
 
 
